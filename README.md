@@ -14,4 +14,9 @@ hardware design process in EasyEDA software is also presented, including the cre
 an electrical diagram, component layout, PCB routing, and 3D visualization of the final
 product. Each part of the design is supported by appropriate calculations and checks
 based on the documentation of the components used, which confirms the correctness and
-reliability of the proposed solution
+reliability of the proposed solution.
+
+<img width="640" height="450" alt="pcb" src="https://github.com/user-attachments/assets/79d27a99-d551-4850-9d75-75c32d16550e" />
+
+<img width="967" height="642" alt="3d" src="https://github.com/user-attachments/assets/e39ab470-dc2a-4f1a-b0bb-56c433fe6c19" />
+
